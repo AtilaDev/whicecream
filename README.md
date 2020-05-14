@@ -1,6 +1,6 @@
 # whIceCream
 
-## installation
+## Installation
 
 ```sh
 yarn
